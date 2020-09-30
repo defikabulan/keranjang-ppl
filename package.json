@@ -1,0 +1,24 @@
+{
+  "name": "keranjang-ppl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defikabulan/keranjang-ppl.git"
+  },
+  "author": "Defika Bulan R <devikabulan8@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "26.4.2",
+    "parcel-bundler": "1.12.4"
+  },
+  "bugs": {
+    "url": "https://github.com/defikabulan/keranjang-ppl/issues"
+  },
+  "homepage": "https://github.com/defikabulan/keranjang-ppl#readme"
+}
